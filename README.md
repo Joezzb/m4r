@@ -1,2 +1,2 @@
-# m4r
-m4r code
+# M4r BraTS and feature visualisation
+This project is based on the code from https://www.kaggle.com/code/polomarco/brats20-3dunet-3dautoencoder/notebook and the dataset from BraTS. The dataset we actually used is the version uploaded to Kaggle (https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation). We rewrite the structure of the U-net and make extra data preprocessing to see how the performance of models changes.
